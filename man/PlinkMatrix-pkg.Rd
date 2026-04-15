@@ -3,6 +3,9 @@
 \name{PlinkMatrix-pkg}
 \alias{PlinkMatrix-pkg}
 \title{Delayed interface to Plink genotype files}
+\value{
+side effects
+}
 \description{
 This package includes C++ code to interface to Plink files.
 Large-scale genotype calls can be managed in a RangedSummarized

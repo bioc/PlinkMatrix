@@ -5,6 +5,7 @@
 #' This package includes C++ code to interface to Plink files.
 #' Large-scale genotype calls can be managed in a RangedSummarized
 #' Experiment instance.
+#' @return side effects
 
 #' @name PlinkMatrix-pkg
 #' @useDynLib PlinkMatrix, .registration=TRUE
